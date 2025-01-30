@@ -1,0 +1,7 @@
+Steps:
+1. Dowloaded the text from whatsapp (excluded the image)
+2. File was zipped so we used a website: https://www.ezyzip.com/ to unzip it
+3. File was a text (that we downloaded)
+4. We need to convert it into Pandas's DataFrame
+5. Before that we need to use Regex (Regular Expression)
+6. 
